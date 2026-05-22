@@ -18,8 +18,8 @@ If not familiar with stock market terms (CMP, P/E ratio, etc.), I have added a s
 
 | Item | Link |
 | ---- | ---- |
-| Live deployment (Vercel) | [https://8byte-abishek.vercel.app](https://8byte-abishek.vercel.app) |
-| Source code (GitHub) | [https://github.com/AbishekMahi/8byte-assignment](https://github.com/AbishekMahi/8byte-assignment) |
+| Live deployment (Vercel) | [https://8byte-portfolio-five.vercel.app](https://8byte-portfolio-five.vercel.app) |
+| Source code (GitHub) | [https://github.com/AbishekMahi/8byte-portfolio](https://github.com/AbishekMahi/8byte-portfolio) |
 | Loom walkthrough | [https://www.loom.com/share/58f4f87ba02343a5a716d35643258e95](https://www.loom.com/share/58f4f87ba02343a5a716d35643258e95) |
 | Challenges document | [CHALLENGES.md](./CHALLENGES.md) |
 ---

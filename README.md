@@ -6,7 +6,7 @@ Dear team,
 
 Please find below my submission for the technical assignment. I have built a web application that displays the portfolio from the Excel file shared in the assignment email. The dashboard fetches live market data and refreshes automatically every 15 seconds.
 
-If you are not familiar with stock market terms (CMP, P/E ratio, etc.), I have added a short glossary in **[FINANCE_TERMS.md](./FINANCE_TERMS.md)**.
+If not familiar with stock market terms (CMP, P/E ratio, etc.), I have added a short glossary in **[FINANCE_TERMS.md](./FINANCE_TERMS.md)**.
 
 ## Screenshot
 
@@ -17,12 +17,11 @@ If you are not familiar with stock market terms (CMP, P/E ratio, etc.), I have a
 ## Submission links
 
 | Item | Link |
-| ---- | ------ |
-| Live deployment (Vercel) | `https://8byte-abishek.vercel.app` |
-| Source code (GitHub) | `https://github.com/AbishekMahi/8byte-assignment` |
-| Loom walkthrough | `https://www.loom.com/share/58f4f87ba02343a5a716d35643258e95` |
-| Challenges document | **[CHALLENGES.md](./CHALLENGES.md)** (can be exported to PDF) |
-
+| ---- | ---- |
+| Live deployment (Vercel) | [https://8byte-abishek.vercel.app](https://8byte-abishek.vercel.app) |
+| Source code (GitHub) | [https://github.com/AbishekMahi/8byte-assignment](https://github.com/AbishekMahi/8byte-assignment) |
+| Loom walkthrough | [https://www.loom.com/share/58f4f87ba02343a5a716d35643258e95](https://www.loom.com/share/58f4f87ba02343a5a716d35643258e95) |
+| Challenges document | [CHALLENGES.md](./CHALLENGES.md) |
 ---
 
 ## How to run the project locally
